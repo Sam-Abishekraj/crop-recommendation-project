@@ -1,0 +1,42 @@
+.myhead{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bolder;
+    color: black;
+}
+
+.myp{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+}
+
+.myp1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    font-weight: bold;
+    color: bisque;
+}
+
+.bgm{
+    background-image: url('agri1.jpg');
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.bgm1{
+    background-image: url('agri2.jpg');
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.spl{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    color: beige;
+    text-align: center;
+    margin-top: 100px;
+}
